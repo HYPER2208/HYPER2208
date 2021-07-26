@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @HYPER2208
 - 👀 I’m interested in data science, machine learning and full-stack Development
-- 🌱 I’m currently learning machine learning
+- 🌱 I’m currently learning everything i can
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me agrnihal22@gmail.com
 
